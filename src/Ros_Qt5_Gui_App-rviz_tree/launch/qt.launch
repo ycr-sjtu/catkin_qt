@@ -1,0 +1,4 @@
+
+<launch>
+    <node pkg="cyrobot_rviz_tree" type="cyrobot_rviz_tree" name="cyrobot_rviz_tree" output="screen"/> 
+</launch>
